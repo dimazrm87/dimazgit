@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="specinlld_2024sep13" id="e099e0b0-fc10-4eee-ab0f-c03e2e4de55b" trackingId="75265a74-a058-49d0-bfa0-9abf4cc9b711" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="DBCon V2.01" />
+      <ApplicationFeature name="SetUnit NX102-9020 Ver. 1.64" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

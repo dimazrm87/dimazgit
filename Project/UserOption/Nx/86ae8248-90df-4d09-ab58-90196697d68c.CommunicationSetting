@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <StartupMode>Normal</StartupMode>
+  <BrowseType>DirectUSB</BrowseType>
+  <BrowseIpAddress />
+  <BrowseLinkLocalIpAddress />
+  <BrowsePortNo />
+  <BrowsePhysicalAddress />
+  <BrowseModel />
+  <BrowseName />
+  <BrowseUnitVersion />
+  <NexProductID />
+  <CommsType>DirectEthernet</CommsType>
+  <CommsUseDirectUSB>False</CommsUseDirectUSB>
+  <CommsUseDirectEtn>False</CommsUseDirectEtn>
+  <CommsUseRemoteUSB>False</CommsUseRemoteUSB>
+  <CommsUseRemoteEtn>False</CommsUseRemoteEtn>
+  <CommsRemortIPAddress />
+  <CommsRemortPortNo />
+  <CommsTimeout>2000</CommsTimeout>
+  <CommsCheckNameID>True</CommsCheckNameID>
+  <CommsCheckForceStatus>True</CommsCheckForceStatus>
+</data>
