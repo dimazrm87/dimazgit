@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"CLs":[{"__type":"LD","Var":"tesjumat"},{"__type":"ST","Ix":1,"Var":"lampu","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+=======
+﻿{"CLs":[{"__type":"LD","Var":"testtest"},{"__type":"ST","Ix":1,"Var":"outout","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+>>>>>>> c777e182f449a0173def2f24b429086a43518cc2

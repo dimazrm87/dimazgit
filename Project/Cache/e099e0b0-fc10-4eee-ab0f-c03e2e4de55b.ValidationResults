@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <ValidationResults xmlns="http://schemas.datacontract.org/2004/07/Omron.Cxap.Modules.Validation.Services" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ApplicationVersion>1.59.0.64007</ApplicationVersion><InvalidEntityIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:guid>cd9a0300-26f5-4707-bcc5-57844f4ab7f9</a:guid></InvalidEntityIds><LastSavedDateTime>09/13/2024 14:14:31</LastSavedDateTime></ValidationResults>
+=======
+<ValidationResults xmlns="http://schemas.datacontract.org/2004/07/Omron.Cxap.Modules.Validation.Services" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ApplicationVersion>1.59.0.64007</ApplicationVersion><InvalidEntityIds xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:guid>cd9a0300-26f5-4707-bcc5-57844f4ab7f9</a:guid></InvalidEntityIds><LastSavedDateTime>09/13/2024 14:15:11</LastSavedDateTime></ValidationResults>
+>>>>>>> c777e182f449a0173def2f24b429086a43518cc2

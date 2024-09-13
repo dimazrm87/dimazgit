@@ -1,6 +1,11 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+<<<<<<< HEAD
 ++D=BOOL	N=tesjumat	G=VAR
 ++D=BOOL	N=lampu	G=VAR
+=======
+++D=BOOL	N=testtest	G=VAR
+++D=BOOL	N=outout	G=VAR
+>>>>>>> c777e182f449a0173def2f24b429086a43518cc2
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
