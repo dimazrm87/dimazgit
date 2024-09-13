@@ -60,34 +60,4 @@
     <Dll>false</Dll>
     <DllO1>false</DllO1>
   </EntityBuildResult>
-  <EntityBuildResult TrackingId="52db970f-e640-4eea-be31-35369975a509">
-    <Result>false</Result>
-    <HasResult>false</HasResult>
-    <IsPretendMatch>false</IsPretendMatch>
-    <CompileVersion>0.0,0.0</CompileVersion>
-    <DllCompileVersion>0.0,0.0</DllCompileVersion>
-    <HasResultDll>false</HasResultDll>
-    <Dll>false</Dll>
-    <DllO1>false</DllO1>
-  </EntityBuildResult>
-  <EntityBuildResult TrackingId="bd63a2f7-a812-49dc-995b-9018f3eaf3ab">
-    <Result>false</Result>
-    <HasResult>false</HasResult>
-    <IsPretendMatch>false</IsPretendMatch>
-    <CompileVersion>0.0,0.0</CompileVersion>
-    <DllCompileVersion>0.0,0.0</DllCompileVersion>
-    <HasResultDll>false</HasResultDll>
-    <Dll>false</Dll>
-    <DllO1>false</DllO1>
-  </EntityBuildResult>
-  <EntityBuildResult TrackingId="f175483d-ae19-46e1-ad5c-86e7407dee94">
-    <Result>false</Result>
-    <HasResult>false</HasResult>
-    <IsPretendMatch>false</IsPretendMatch>
-    <CompileVersion>0.0,0.0</CompileVersion>
-    <DllCompileVersion>0.0,0.0</DllCompileVersion>
-    <HasResultDll>false</HasResultDll>
-    <Dll>false</Dll>
-    <DllO1>false</DllO1>
-  </EntityBuildResult>
 </NexControllerBuildResults>

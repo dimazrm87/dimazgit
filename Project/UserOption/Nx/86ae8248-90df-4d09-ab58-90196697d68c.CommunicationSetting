@@ -2,21 +2,21 @@
 <data>
   <StartupMode>Normal</StartupMode>
   <BrowseType>DirectUSB</BrowseType>
-  <BrowseIpAddress />
-  <BrowseLinkLocalIpAddress />
-  <BrowsePortNo />
-  <BrowsePhysicalAddress />
-  <BrowseModel />
-  <BrowseName />
-  <BrowseUnitVersion />
-  <NexProductID />
+  <BrowseIpAddress></BrowseIpAddress>
+  <BrowseLinkLocalIpAddress></BrowseLinkLocalIpAddress>
+  <BrowsePortNo></BrowsePortNo>
+  <BrowsePhysicalAddress></BrowsePhysicalAddress>
+  <BrowseModel></BrowseModel>
+  <BrowseName></BrowseName>
+  <BrowseUnitVersion></BrowseUnitVersion>
+  <NexProductID></NexProductID>
   <CommsType>DirectEthernet</CommsType>
   <CommsUseDirectUSB>False</CommsUseDirectUSB>
   <CommsUseDirectEtn>False</CommsUseDirectEtn>
   <CommsUseRemoteUSB>False</CommsUseRemoteUSB>
   <CommsUseRemoteEtn>False</CommsUseRemoteEtn>
-  <CommsRemortIPAddress />
-  <CommsRemortPortNo />
+  <CommsRemortIPAddress></CommsRemortIPAddress>
+  <CommsRemortPortNo></CommsRemortPortNo>
   <CommsTimeout>2000</CommsTimeout>
   <CommsCheckNameID>True</CommsCheckNameID>
   <CommsCheckForceStatus>True</CommsCheckForceStatus>
